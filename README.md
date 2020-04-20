@@ -19,4 +19,4 @@ Next, a Shapley analysis was done to look at how the random forest classifier ma
 3. High working hours per month.
 4. Spent about 5 or 6 years at the company.
 
-Many of the above factors are associated with low satisfaction level such as #1 and #3.
+Several factors are associated with low satisfaction level such as #1 and #3.
